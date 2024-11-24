@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_features_spoilers",
+  "info": {
+    "displayName": "Spoiler",
+    "icon": "cog"
+  },
+  "options": {},
+  "attributes": {
+    "clickableText": {
+      "type": "string"
+    },
+    "actualSpoiler": {
+      "type": "text"
+    }
+  }
+}
