@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-  url: env('RENDER_EXTERNAL_URL', ''),
+  url: env('HOSTING_EXTERNAL_URL', '127.0.0.1'),
 })
